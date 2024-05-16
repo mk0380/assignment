@@ -28,6 +28,9 @@ You can install SocialSphere by following these steps:
    ```
    This will start the development server and open the project in your default web browser.
 
+![Screenshot 2024-05-16 115656](https://github.com/mk0380/assignment/assets/123063925/2d260a0a-952a-4f14-8ad4-72e9df22f033)
+
+
 ## Features
 
 - **Real-time Notifications:** Stay updated with recent notifications, including friend requests and activity updates.
