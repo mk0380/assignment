@@ -48,4 +48,3 @@ Once installed, you can navigate through the various features of SocialSphere us
 
 ---
 
-Feel free to customize this README template to suit your project's specific details and requirements!
