@@ -1,7 +1,3 @@
-Certainly! Here's a template for your README.md file:
-
----
-
 # SocialSphere
 
 SocialSphere is a social media project aimed at connecting people and facilitating communication between them. It includes features such as real-time notifications, a feed for sharing ideas, a messaging system, friend requests, and more.
@@ -17,13 +13,12 @@ You can install SocialSphere by following these steps:
 
 2. **Clone Repository:**
    ```
-   git clone https://github.com/your-username/SocialSphere.git
+   git clone https://github.com/mk0380/assignment.git
    ```
-   Replace `your-username` with your GitHub username.
 
 3. **Install Dependencies:**
    ```
-   cd SocialSphere
+   cd assignment
    npm install
    ```
 
