@@ -105,6 +105,14 @@ const LeftComp = ({bookmarks}) => {
           </span>{" "}
           <h3>Settings</h3>
         </a>
+
+        <a href="" onClick={(e) => handleClick('seventh',e)} className={`menu-item ${activeItem === 'seventh' ? 'active' : ''}`}>
+          <span>
+            <i className="uil uil-user"></i>
+          </span>{" "}
+          <h3>Profile</h3>
+        </a>
+        
       </div>
 
       <label htmlFor="create-post" className="btn btn-primary">
